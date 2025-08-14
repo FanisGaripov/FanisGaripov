@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**FanisGaripov/FanisGaripov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +10,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanisGaripov)](https://github.com/FanisGaripov/github-readme-stats)
