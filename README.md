@@ -1,4 +1,4 @@
-## Hi, I'm Fanis
+## Hi, I'm Fanis 👋
 
 **🎓 11th-grade student** from Russia who's already building a career in IT while still in school.
 
@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on: ChemistryPRO
 - 🌱 I'm learning: Django, EGE
-- 📫 How to reach me: [Telegram](https://t.me/dontcrymygirl) [VK](https://vk.ru/i_fanis_hello)
+- 📫 How to reach me: [Telegram](https://t.me/dontcrymygirl), [VK](https://vk.ru/i_fanis_hello)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FanisGaripov)](https://git.io/streak-stats)
 
