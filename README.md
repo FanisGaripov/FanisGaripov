@@ -1,6 +1,7 @@
 ## Hi, I'm Fanis
 
 **🎓 11th-grade student** from Russia who's already building a career in IT while still in school.
+
 🎯 **My goal:** Become a backend developer and build reliable, scalable applications
 
 
@@ -9,6 +10,7 @@
 - 📫 How to reach me: [Telegram](https://t.me/dontcrymygirl) [VK](https://vk.ru/i_fanis_hello)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FanisGaripov)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanisGaripov&layout=compact)
 
 ## My skills:
