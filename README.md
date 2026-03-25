@@ -1,8 +1,15 @@
 ## Hi, I'm Fanis
 
-I'm programmer-beginner and i hope that i'll be a web-developer in the future.
+**🎓 11th-grade student** from Russia who's already building a career in IT while still in school.
+🎯 **My goal:** Become a backend developer and build reliable, scalable applications
+
+
+- 🔭 I'm currently working on: ChemistryPRO
+- 🌱 I'm learning: Django, EGE
+- 📫 How to reach me: [Telegram](https://t.me/dontcrymygirl) [VK](https://vk.ru/i_fanis_hello)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FanisGaripov)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanisGaripov&layout=compact)
 
 ## My skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,3 +27,20 @@ I'm programmer-beginner and i hope that i'll be a web-developer in the future.
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+## My Best Project
+
+### 🧪 ChemistryPRO - website for stydying chemistry (4 million views, 100000 users)
+- Flask
+- Bootstrap
+- SQLite → PostgreSQL
+[Repository →](https://github.com/FanisGaripov/ChemistryPro)
+
+
+## 📜 Certifications
+- Основы программирования на языке Python - [Яндекс Лицей] (2022)
+- Основы промышленного программирования - [Яндекс Лицей] (2023)
+- Специализация Django - [Яндекс Лицей] (2025)
+
+## Thanks for watching ❤️
